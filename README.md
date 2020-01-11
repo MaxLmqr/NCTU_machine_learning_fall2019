@@ -1,3 +1,3 @@
 # ML_practice
 
-Few exercices of machine learning from National Chiao Tung University, TAIWAN
+This repo regroups the labs I did following machine learning's course in National Chiao Tung University, Taiwan.

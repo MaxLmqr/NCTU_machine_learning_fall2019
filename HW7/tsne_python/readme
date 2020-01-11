@@ -1,0 +1,3 @@
+For size reasons I deleted the data files from the folder. You need to put both the mnist data in this folder in order to run the code.
+
+the SNE code is from : https://lvdmaaten.github.io/tsne/
